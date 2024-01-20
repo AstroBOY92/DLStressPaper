@@ -11,8 +11,8 @@ In oder to use this repository following systems/software are required
 ### Files in the repository
 
 (1) ShapeData.mat - this file is the code that allows the topological mapping of the Geometry
-(2) Thermo.mat - this is the file that is used DLStress.py, im2patch.m,
-UnsupervisedLearning.m, ReadMeshFromVTKFile.m, ReadPolygonMeshFromVTKFile.m,
+(2) Thermo.mat - this is the file that is used topDLStress.py, im2patch.m,
+UnsupervisedLearning.m, ReadMeshFromVTKFile.m , ReadPolygonMeshFromVTKFile.m,
 WritePolygonMeshAsVTKFile.m, Visualization.m, TemplateMesh3D.vtk,
 TemplateMesh2D.vtk. 
 
