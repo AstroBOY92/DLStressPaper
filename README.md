@@ -7,8 +7,11 @@ In oder to use this repository following systems/software are required
 2) Mathlab python engine (https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
 3) Mathlab Deeplearning Toolkit
 4) Python interpreter
-5) 
-ShapeData.mat, Thermo.mat, DLStress.py, im2patch.m,
+
+### Files in the repository
+
+(1) ShapeData.mat - this file is the code that allows the topological mapping of the Geometry
+(2) Thermo.mat - this is the file that is used DLStress.py, im2patch.m,
 UnsupervisedLearning.m, ReadMeshFromVTKFile.m, ReadPolygonMeshFromVTKFile.m,
 WritePolygonMeshAsVTKFile.m, Visualization.m, TemplateMesh3D.vtk,
 TemplateMesh2D.vtk. 
@@ -18,4 +21,3 @@ WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
 MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
 
-go to cmd and follow the instructions to setup matlab python engine
