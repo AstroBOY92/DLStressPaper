@@ -14,7 +14,10 @@ In oder to use this repository following systems/software are required
 (2) Thermo.mat - Dataset generate from the Termo fluid analysys
 (3) StressData.mat - Datasets for the material propreites
 (4) Mathlab codes for Reading and Writing Polygon meshes and templates:ReadMeshFromVTKFile.m , ReadPolygonMeshFromVTKFile.m, WritePolygonMeshAsVTKFile.m,TemplateMesh2D.vtk. 
-(5) DLStress.py - python code that generates the results on the model using matplotlib and numpy
+(5) DeepLearningStressCode.py - python code that generates the results on the model using matplotlib, numpy and keras
 
 The code and files provided are to be considered "As is" and without any express or implied warranties, including, without limitation the implied warraties of merchantability and fitness for a particular purpose.
+
+Using the pythong interpreter running DeepLearningStressCode.py will allow the results to be reproduced, provided all the other files and packagers are installed.
+
 
